@@ -17,3 +17,4 @@
 * [Документация Celery](https://docs.celeryproject.org/en/stable/getting-started/introduction.html)
 * [Модуль subprocess](https://docs.python.org/3/library/subprocess.html)
 * [Пример работы с Celery](https://blog.miguelgrinberg.com/post/using-celery-with-flask)
+* [Сборки Redis для Windows](https://github.com/microsoftarchive/redis/releases)
