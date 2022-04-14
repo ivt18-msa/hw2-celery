@@ -1,0 +1,4 @@
+*.pyc
+redis/
+uploads/
+venv/
